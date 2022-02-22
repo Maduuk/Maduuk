@@ -3,7 +3,7 @@
 
 
 - 🔭 Dev front-end
-- 🌱 Estudando JavaScript.
+- 🌱 Estudando JavaScript
 
 <div align="center">
   <a href="https://github.com/Maduuk">
