@@ -3,7 +3,7 @@
 
 
 - 🔭 Dev front-end
-- 🌱 Dando os primeiros passos pra entrat na profissão
+- 🌱 Dando os primeiros passos para entrar na profissão
 - 📝 Atualmente estudando JavaScript 
 
 <div align="center">
