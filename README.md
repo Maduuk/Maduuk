@@ -3,7 +3,8 @@
 
 
 - 🔭 Dev front-end
-- 🌱 Estudando JavaScript
+- 🌱 Dando os primeiros passos pra entrat na profissão
+- 📝 Atualmente estudando JavaScript 
 
 <div align="center">
   <a href="https://github.com/Maduuk">
